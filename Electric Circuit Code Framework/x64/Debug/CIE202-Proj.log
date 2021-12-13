@@ -1,0 +1,20 @@
+﻿  ActionAddBattery.cpp
+  ActionAddBulb.cpp
+  ActionAddBuzzer.cpp
+  ActionAddFuse.cpp
+  ActionAddGround.cpp
+  ActionAddRes.cpp
+  ActionAddSwitch.cpp
+  ActionSave.cpp
+  ApplicationManager.cpp
+  Battery.cpp
+  Bulb.cpp
+  Buzzer.cpp
+  Component.cpp
+  Fuse.cpp
+  Ground.cpp
+  Resistor.cpp
+  Switch.cpp
+  main.cpp
+  Generating Code...
+  CIE202-Proj.vcxproj -> F:\C++\Project\Elec Circuit Code Framework\x64\Debug\CIE202-Proj.exe
